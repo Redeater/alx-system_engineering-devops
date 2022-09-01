@@ -1,0 +1,4 @@
+#!/bin/bash
+su –p [betty]\n
+0-current_working_directory
+
